@@ -1,0 +1,25 @@
+<annotation>
+	<folder>gesislab</folder>
+	<filename>scissors12.jpg</filename>
+	<path>/gesislab/scissors12.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>scissors</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>95</ymin>
+			<xmax>181</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>gesislab</folder>
+	<filename>band11.jpg</filename>
+	<path>/gesislab/band11.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>band</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>35</ymin>
+			<xmax>182</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

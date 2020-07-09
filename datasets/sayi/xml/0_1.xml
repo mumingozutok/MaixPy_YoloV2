@@ -1,0 +1,25 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0_1.jpg</filename>
+	<path>/C:\Users\AYKUT\Desktop\sayi\images\0_1.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>169</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>31</ymin>
+			<xmax>122</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>

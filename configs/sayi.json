@@ -25,6 +25,6 @@
         "saved_folder":   		"sayi",
         "first_trainable_layer": "",
         "jitter":				false,
-        "is_only_detect" : 		true
+        "is_only_detect" : 		false
     }
 }

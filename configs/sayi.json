@@ -20,7 +20,7 @@
         "valid_image_folder":   "datasets/sayi/images_valid",
         "valid_annot_folder":   "datasets/sayi/xml_valid",
         "valid_times":          1,
-        "batch_size":           2,
+        "batch_size":           1,
         "learning_rate":        1e-4,
         "saved_folder":   		"sayi",
         "first_trainable_layer": "",

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>0_1.jpg</filename>
-	<path>/dataset/sayi/images/0_1.jpg</path>
+	<path>/datasets/sayi/images/0_1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

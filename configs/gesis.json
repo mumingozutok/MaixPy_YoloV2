@@ -25,6 +25,6 @@
         "saved_folder":   		"gesis",
         "first_trainable_layer": "",
         "jitter":				false,
-        "is_only_detect" : 		false
+        "is_only_detect" : 		true
     }
 }

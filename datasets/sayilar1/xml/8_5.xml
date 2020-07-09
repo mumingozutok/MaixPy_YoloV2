@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>8_5.jpg</filename>
+	<path>/content/MaixPy_YoloV2/datasets/sayi/images/8_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>169</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>8</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>32</ymin>
+			<xmax>129</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

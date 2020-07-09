@@ -1,20 +1,21 @@
-<annotation>
-	<folder>my-project-name</folder>
-	<filename>20200709_104751.jpg</filename>
-	<path>/my-project-name/20200709_104751.jpg</path>
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>1_1.jpg</filename>
+	<path>/content/MaixPy_YoloV2/datasets/sayi/images/1_1.jpg</path>
 	<source>
-		<database>Unspecified</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>169</width>
 		<height>225</height>
 		<depth>3</depth>
 	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>1</name>
 		<pose>Unspecified</pose>
-		<truncated>Unspecified</truncated>
-		<difficult>Unspecified</difficult>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>50</xmin>
 			<ymin>64</ymin>

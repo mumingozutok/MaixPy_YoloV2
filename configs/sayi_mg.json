@@ -13,7 +13,7 @@
         "full":   				""
     },
     "train" : {
-        "actual_epoch":         20,
+        "actual_epoch":         3,
         "train_image_folder":   "datasets/sayi_mg/img",
         "train_annot_folder":   "datasets/sayi_mg/ann",
         "train_times":          5,
@@ -25,6 +25,6 @@
         "saved_folder":   		"sayi_mg",
         "first_trainable_layer": "",
         "jitter":				false,
-        "is_only_detect" : 		false
+        "is_only_detect" : 		true
     }
 }
